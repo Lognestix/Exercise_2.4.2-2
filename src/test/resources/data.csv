@@ -1,0 +1,4 @@
+"'Registered user, bonus under limit'", "100060", "true", "30"
+"'Registered user, bonus over limit'", "100000060", "true", "500"
+"'Unregistered user, bonus under limit'", "100060", "false", "10"
+"'Unregistered user, bonus over limit'", "100000060", "false", "500"
